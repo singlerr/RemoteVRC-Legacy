@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RemoteVRC": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
